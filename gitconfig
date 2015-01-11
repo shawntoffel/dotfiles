@@ -1,0 +1,11 @@
+[http]
+	sslVerify = false
+[user]
+	name = Shawn Toffel
+	email = shawn.toffel@gmail.com
+[ui]
+	color = true
+[color]
+	ui = true
+[core]
+	editor = vim
