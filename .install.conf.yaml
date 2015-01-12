@@ -9,4 +9,5 @@
       path: config/i3
     ~/.vim: vim/
     ~/.vimrc: vimrc
+    ~/.xinitrc: xinitrc
     ~/.gitconfig: gitconfig
