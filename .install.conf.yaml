@@ -4,3 +4,6 @@
     ~/.vim: vim/
     ~/.vimrc: vimrc
     ~/.gitconfig: gitconfig
+    ~/.config/terminator/config:
+      create: true
+      path: config/terminator
