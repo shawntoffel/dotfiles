@@ -12,6 +12,8 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 
 " Plugins
+Plugin 'quanganhdo/grb256'
+
 Plugin 'tpope/vim-surround'
 Plugin 'rstacruz/sparkup'
 
