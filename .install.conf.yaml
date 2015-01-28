@@ -7,8 +7,8 @@
     ~/.config/i3/config:
       create: true
       path: config/i3
-    ~/.vim: vim/
-    ~/.vimrc: vimrc
+    ~/.vim: vimfiles/vim/
+    ~/.vimrc: vimfiles/vimrc
     ~/.xinitrc: xinitrc
     ~/.gitconfig: gitconfig
     ~/.config/terminator/config:
