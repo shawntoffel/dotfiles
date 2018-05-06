@@ -3,9 +3,12 @@
 [user]
 	name = Shawn Toffel
 	email = shawn.toffel@gmail.com
+	signingkey = 6745B01B787D57B3
 [ui]
 	color = true
 [color]
 	ui = true
 [core]
 	editor = vim
+[push]
+	default = simple
