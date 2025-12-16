@@ -1,16 +1,12 @@
-[http]
-	sslVerify = false
 [user]
 	name = Shawn Toffel
 	email = shawn.toffel@gmail.com
 	signingkey = 6745B01B787D57B3
-[ui]
-	color = true
-[color]
-	ui = true
 [core]
 	editor = vim
-[push]
-	default = simple
+[tag]
+	gpgsign = true
 [commit]
 	gpgsign = true
+[alias]
+	recent = branch --sort=-committerdate --format=\"%(authordate) %(color:red)%(objectname:short) %(color:yellow)%(refname:short)%(color:reset) (%(color:green)%(committerdate:relative)%(color:reset)) %(authorname)\"
